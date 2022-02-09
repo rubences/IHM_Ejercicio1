@@ -1,8 +1,1 @@
-# IHM_Ejercicio1
-Validadores
-
-https://www.figma.com/proto/DWlg8UVMIUKx8DTL8EFxJh/Wireframing-in-Figma?scaling=scale-down&page-id=0%3A1&node-id=0%3A817
-
-https://www.figma.com/proto/6fx0CzDL6ZZTazS6YAPJvA/Mooc_1_Mod8_T_3_Primer_proyecto_Figma?page-id=0%3A1&node-id=5%3A0&viewport=241%2C48%2C1&scaling=min-zoom
-
-https://www.figma.com/proto/6fx0CzDL6ZZTazS6YAPJvA/Mooc_1_Mod8_T_3_Primer_proyecto_Figma?page-id=5%3A120&node-id=5%3A123&viewport=241%2C48%2C0.44&scaling=min-zoom&starting-point-node-id=5%3A123
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6fx0CzDL6ZZTazS6YAPJvA%2FMooc_1_Mod8_T_3_Primer_proyecto_Figma%3Fpage-id%3D5%253A120%26node-id%3D5%253A123%26viewport%3D241%252C48%252C0.44%26scaling%3Dmin-zoom%26starting-point-node-id%3D5%253A123" allowfullscreen></iframe>
